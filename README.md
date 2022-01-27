@@ -28,7 +28,7 @@ When/if you already have those installed, create a new project folder and while 
 yo sass-webapp
 ```
 
-That's it, now in order to have Gulp running, head to the project folder command line and type: `gulp`
+That's it! To have Gulp running head to the project folder command line and type: `gulp`
 
 ### Notes
 
