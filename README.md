@@ -1,5 +1,17 @@
 # Gulp Sass Front-end boilerplate
 
+In order to use this workflow you need to have [Yeoman generator](https://yeoman.io/) npm package globally installed:
+`npm install -g yo`
+As well as the gulp-cli:
+`npm install -g gulp-cli`
+And then the sass-webapp generator itself:
+`npm install -g generator-sass-webapp`
+
+When/if you already have those installed, create a new project folder and type:
+`yo sass-webapp`
+
+That's it, now to have Gulp running go to the project folder command line and type: `gulp`
+
 ### Links
 
-- Live Site URL: [https://github.com/aanacif](https://github.com/aanacif)
+- Github Repository: [https://github.com/aanacif/generator-sass-webapp](https://github.com/aanacif/generator-sass-webapp)
