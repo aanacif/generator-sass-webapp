@@ -1,6 +1,6 @@
 {
   "name": "generator-sass-webapp",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Basic front-end sass templates",
   "main": "gulpfile.js",
   "scripts": {
